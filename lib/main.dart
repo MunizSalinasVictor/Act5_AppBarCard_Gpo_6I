@@ -67,7 +67,7 @@ class Contenido extends StatelessWidget {
               radius: 50,
               backgroundColor: Colors.white,
               backgroundImage: NetworkImage(
-                'https://raw.githubusercontent.com/MunizSalinasVictor/IAmoviles_Act5_AppBarCard_Gpo_6I/refs/heads/main/victor-mendivil.jpg',
+                'https://raw.githubusercontent.com/MunizSalinasVictor/myapp/refs/heads/master/victor-mendivil.jpg',
               ),
             ),
             const SizedBox(height: 15),
